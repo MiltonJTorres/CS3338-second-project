@@ -1,0 +1,64 @@
+commit a38ad92ab3d0dd9f32b479a8b0ffb608a4328a9b
+Merge: 7a68e95 8db0719
+Author: MiltonJTorres <mtorre192@calstatela.edu>
+Date:   Thu Sep 10 22:29:02 2026 -0700
+
+    grge branch 'main' of https://github.com/MiltonJTorres/CS3338-second-project
+
+commit 7a68e956267d377de62398f15a664f26957c4657
+Author: MiltonJTorres <mtorre192@calstatela.edu>
+Date:   Thu Sep 10 22:25:49 2026 -0700
+
+    Fixing Merge Conflict
+
+commit 8db0719cc1e46e09716739de679e66ae04809dba
+Author: Milton Torres <mtorre192@calstatela.edu>
+Date:   Thu Sep 10 22:20:28 2026 -0700
+
+    Update README.md
+
+commit b0f09cd11d8685f074d607efc390932f8d0045e0
+Merge: 258f1c9 8007daa
+Author: MiltonJTorres <mtorre192@calstatela.edu>
+Date:   Thu Sep 10 22:19:02 2026 -0700
+
+    merge conflict
+
+commit 8007daa5f05732fc0e30e20f9ebeca60200cdb38
+Author: MiltonJTorres <mtorre192@calstatela.edu>
+Date:   Thu Sep 10 22:15:22 2026 -0700
+
+    added favorite game
+
+commit 258f1c90976d7febe4460ad0c203f143a3977fc4
+Author: MiltonJTorres <mtorre192@calstatela.edu>
+Date:   Thu Sep 10 22:09:36 2026 -0700
+
+    added favorite food
+
+commit 485d60d997a701e9780a797ec4058ec006073875
+Author: MiltonJTorres <mtorre192@calstatela.edu>
+Date:   Thu Sep 10 22:01:44 2026 -0700
+
+    adding README.md
+
+commit abb218ac03adebe278f241100390a8bf3fda739a
+Merge: 1d2bfc0 bbdf503
+Author: Milton Torres <mtorre192@calstatela.edu>
+Date:   Thu Sep 10 21:52:19 2026 -0700
+
+    Merge pull request #1 from MiltonJTorres/info-fill
+    
+    Name and Hobby index
+
+commit bbdf5038c3b6515589a78dc8f69f5f5f8c97c7f3
+Author: MiltonJTorres <mtorre192@calstatela.edu>
+Date:   Thu Sep 10 21:37:25 2026 -0700
+
+    Name and Hobby index
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
